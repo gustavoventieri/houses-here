@@ -5,6 +5,9 @@
     .home {
         width: 95%;
     }
+    header .content .cont_bx .btns_cont {
+        margin-top: 200px;
+    }
     .map .address_bx {
         width: 200px;
         top: 63%;
@@ -22,6 +25,9 @@
     }
     header .content .choose_bx .select .card:nth-child(3) .date i{
         left: 79%;
+    }
+    header .content .cont_bx .btns_cont {
+        margin-top: 200px;
     }
     .map .address_bx {
         width: 200px;
@@ -48,11 +54,8 @@
     header .content .cont_bx p {
         color: #fff;
     }
-    header .content .cont_bx .weather h6 {
-        color: #fff;
-    }
     header .content .cont_bx .btns_cont {
-        margin-top: 10px;
+        margin-top: 210px;
         color: #fff;
     }
     
@@ -111,6 +114,10 @@
     header .content .cont_bx .btns_cont i {
         margin-left: -30px;
        
+    }
+    header .content .cont_bx .images_bx {
+        right: 10px;
+        top: 58px;
     }
     .map .address_bx {
         width: 200px;

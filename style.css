@@ -115,7 +115,7 @@ header .content .cont_bx{
 }
 
 header .content .cont_bx h1{
-   font-size: 47px;
+   font-size: 45px;
    line-height: 60px;
    font-weight: 600;
 }
@@ -127,27 +127,14 @@ header .content .cont_bx p{
     margin-top: 10px;   
 }
 
-header .content .cont_bx .weather{
-    margin-top: 60px;
-}
-
-header .content .cont_bx .weather h6{
-    color: #fff;
-    font-size: 10px;
-    font-weight: 600;
-}
-
-header .content .cont_bx .weather h6 span{
-    margin-left: 2px;
-}
 
 header .content .cont_bx .btns_cont {
-    margin-top: 10px;
+    margin-top: 160px;
 }
 
 header .content .cont_bx .btns_cont i{
-    border: 1px solid gray;
-    color: gray;
+    border: 2px solid #fff;
+    color: #fff;
     padding: 0px 3.3px;
     border-radius: 50%;
     cursor: pointer;
@@ -164,7 +151,7 @@ header .content .cont_bx .btns_cont i:hover{
 header .content .cont_bx .images_bx{
     position: absolute;
     right: 20px;
-    top: 10px;
+    top: 60px;
     width: 50px;
 }
 header .content .cont_bx .images_bx .card{
@@ -212,6 +199,7 @@ header .content .choose_bx .stay_bx button{
     font-family: 'Poppins', sans-serif;
     cursor: pointer;
     transition: .3s linear;
+    margin-top: 10px;
 }
 
 header .content .choose_bx .stay_bx button:hover{
@@ -335,7 +323,7 @@ header .content .choose_bx .select .card input:nth-child(3) {
     width: 65%;
     height: 230px;
     margin: auto;
-    top: -220px;
+    top: -110px;
     z-index: 2;
 }
 
